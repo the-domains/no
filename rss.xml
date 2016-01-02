@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[no]]></title>
+        <description><![CDATA[no]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jan 2016 05:50:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Friendsday: Ready, set, sew! (getting ready for the holiday markets)]]></title>
+            <description><![CDATA[<article><h1>Friendsday: Ready, set, sew! (getting ready for the holiday markets)</h1><p>These pieces of cut tees will turn into a couple of pants in the near future. Next week that is! We're going to the Jasper Holiday Market & Expo on Fri 20th and Sat 21st to represent Friendsday and to see what's up in Georgia, how exciting!</p><img src="http://1.bp.blogspot.com/-GVYB5Mn663I/VkY1uQszinI/AAAAAAAAA60/rwIVg-16pKA/s640/pants%2Bpieces%2B1.jpg"></article>]]></description>
+            <link>http://tasapainokokoelma.blogspot.fi/2015/11/ready-set-sew-getting-ready-for-holiday.html</link>
+            <guid isPermaLink="false">ccd86219-3e14-417e-91e0-cb758e3bd559</guid>
+            <pubDate>Sat, 02 Jan 2016 05:50:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
