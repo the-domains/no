@@ -1,19 +1,4 @@
-name: null
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.5
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#f0262b'
@@ -23,5 +8,11 @@ color:
     - '#c17003'
   brandStrength: 0
   lightness: 0.5
+  rhythmicContrast: 0.220149
   saturation: 0.5
+cta: {}
+layout_spectrum: 0.484141
+name: 'no'
+opengraph: {}
 purpose: []
+typography_spectrum: 0.5
